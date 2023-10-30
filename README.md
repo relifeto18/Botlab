@@ -10,6 +10,8 @@ Using a differential wheeled robot with a 2D lidar and 3-axis IMU to build a ful
 
 ![](https://github.com/relifeto18/Botlab/blob/main/SLAM.gif)
 
+
+
 # MBot Omni Autonomy Code
 
 ## Usage
