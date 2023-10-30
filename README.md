@@ -7,3 +7,5 @@ Using a differential wheeled robot with a 2D lidar and 3-axis IMU to build a ful
 **Sensing**: 2D LIDAR / MEMS IMU
 
 **Reasoning**: Monte Carlo Localization / Simultaneous Localization and Mapping (SLAM) / A* search
+
+![](https://github.com/relifeto18/Botlab/blob/main/SLAM.gif)
